@@ -2,7 +2,7 @@ Regular **Markdown** here.
 
 | wer | rt  | 23  | 45  | 2        |     |     |
 | --- | --- | --- | --- | -------- | --- | --- |
-| 34  | %4  | 65  | 45  | <ul style="align: center"><li> [x] Done</li></ul> | 23  |
+| 34  | %4  | 65  | 45  | <ul style="display:table-row"><li style="display: table-cell;vertical-align: middle;"> [x] Done</li></ul> | 23  |
  
 
 
