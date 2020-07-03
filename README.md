@@ -29,7 +29,7 @@ Bob -> Alice: Hi!
 @enduml
 ```
 
-##Организация и управление очередями в учреждении
+## Организация и управление очередями в учреждении
 
 
 ![system overview](http://www.auto-sys.su:8080/proxy?cache=no&src=https://raw.githubusercontent.com/vasyagaga/markdown-test/master/diagrams/dig.puml)
