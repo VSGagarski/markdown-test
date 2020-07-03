@@ -5,6 +5,18 @@ Regular **Markdown** here.
 | 34  | %4  | 65  | 45  | <ul style="display:table-row"><li style="display: table-cell;vertical-align: middle;"> [x] Done</li></ul> | 23  |
  
 
+| wer | rt  | 23  | 45  | 2                          |     |     |
+| --- | --- | --- | --- | -------------------------- | --- | --- |
+| 34  | %4  | 65  | 45  | <ul><li>- [ ] df</li></ul> | 23  |     |
+ 
+
+| Основной функционал                             | Описание           | Состояние                     | Срок сдачи |
+| ----------------------------------------------- | ------------------ | ----------------------------- | ---------- |
+| Организация и управление очередями в учреждении | [Описание](#queue) | <ul><li>- [ ]  Done</li></ul> |            |
+|                                                 |                    |                               |            |
+|                                                 |                    |                               |            |
+|                                                 |                    |                               |            |
+
 
 
 
@@ -17,7 +29,7 @@ Bob -> Alice: Hi!
 @enduml
 ```
 
-
+##[Организация и управление очередями в учреждении](#queue)
 
 
 ![system overview](http://www.auto-sys.su:8080/proxy?cache=no&src=https://raw.githubusercontent.com/vasyagaga/markdown-test/master/diagrams/dig.puml)
